@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\povil\\source\\repos\\Kaunas University of Technology - Copy\\Kaunas University of Technology\\KaunasUniversityOfTechnology.csproj",
+      "projectUniqueName": "C:\\Users\\povil\\Desktop\\Kaunas-University-of-Technology\\Kaunas University of Technology\\KaunasUniversityOfTechnology.csproj",
       "projectName": "KaunasUniversityOfTechnology",
-      "projectPath": "C:\\Users\\povil\\source\\repos\\Kaunas University of Technology - Copy\\Kaunas University of Technology\\KaunasUniversityOfTechnology.csproj",
+      "projectPath": "C:\\Users\\povil\\Desktop\\Kaunas-University-of-Technology\\Kaunas University of Technology\\KaunasUniversityOfTechnology.csproj",
       "packagesPath": "C:\\Users\\povil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\povil\\source\\repos\\Kaunas University of Technology - Copy\\Kaunas University of Technology\\obj\\",
+      "outputPath": "C:\\Users\\povil\\Desktop\\Kaunas-University-of-Technology\\Kaunas University of Technology\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

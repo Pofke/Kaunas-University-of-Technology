@@ -1,0 +1,12 @@
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\bin\Debug\netcoreapp2.0\Kaunas University of Technology.deps.json
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\bin\Debug\netcoreapp2.0\Kaunas University of Technology.runtimeconfig.json
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\bin\Debug\netcoreapp2.0\Kaunas University of Technology.runtimeconfig.dev.json
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\bin\Debug\netcoreapp2.0\Kaunas University of Technology.dll
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\bin\Debug\netcoreapp2.0\Kaunas University of Technology.pdb
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\obj\Debug\netcoreapp2.0\Kaunas University of Technology.csprojResolveAssemblyReference.cache
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\obj\Debug\netcoreapp2.0\Kaunas University of Technology.csproj.CoreCompileInputs.cache
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\obj\Debug\netcoreapp2.0\Kaunas University of Technology.AssemblyInfoInputs.cache
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\obj\Debug\netcoreapp2.0\Kaunas University of Technology.AssemblyInfo.cs
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\obj\Debug\netcoreapp2.0\Kaunas University of Technology.dll
+C:\Users\povil\source\repos\Kaunas University of Technology\Kaunas University of Technology\obj\Debug\netcoreapp2.0\Kaunas University of Technology.pdb
